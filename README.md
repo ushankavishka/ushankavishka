@@ -9,16 +9,17 @@
 ---
 
 <!-- GitHub Stats and Most Used Languages -->
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-    <div>
+<table align="center">
+  <tr>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ushankavishka&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </div>
-    <div>
+    </td>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushankavishka&layout=compact&theme=radical" alt="Most Used Languages" />
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
+
 
 <!-- GitHub Streak -->
 <p align="center">
