@@ -9,7 +9,7 @@
 
 ### 💫 About Me
 
-- **Name:** [Your Name]  
+- **Name:** Ushan Kavishka 
 - **Role:** Software Engineer  
 - **Skills:**  
   - Programming Languages: JavaScript, PHP, Dart, HTML, CSS  
