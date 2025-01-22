@@ -1,4 +1,7 @@
-<h1 align="center"> Ideas to Implementation </h1>
+<h1 align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">
+  Ideas to Implementation
+</h1>
+
 <h3 align="center">A passionate Software Engineer crafting digital experiences</h3>
 
 <p align="center">
@@ -51,11 +54,6 @@
     </div>
   </div>
 </div>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushankavishka&theme=radical" alt="GitHub Streak" />
-</p>
 
 <!-- Profile Details -->
 <p align="center">
