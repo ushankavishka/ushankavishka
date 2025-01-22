@@ -15,7 +15,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=ushankavishka&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushankavishka&layout=compact&theme=radical" alt="Most Used Languages" />
+	 <img src="https://streak-stats.demolab.com/?user=ushankavishka&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
