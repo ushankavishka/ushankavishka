@@ -22,8 +22,9 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushankavishka&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ushankavishka&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ---
 
