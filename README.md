@@ -1,22 +1,4 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Your+Custom+Banner" alt="Custom Banner" />
-</p>
-<p align="center">
-  <svg width="100%" height="150">
-    <rect width="100%" height="150" fill="#f75c7e" />
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#fff" font-size="24">
-      Welcome to My GitHub Profile
-    </text>
-  </svg>
-</p>
-
-<p align="center" style="background-color: #f75c7e; color: white; padding: 20px; border-radius: 10px;">
-  <strong>🚀 Ideas to Implementation</strong><br>
-  <em>A passionate Software Engineer crafting digital experiences</em>
-</p>
-
-
-<h1 align="center">✨ Ideas to Implementation ✨</h1>
+<h1 align="center">🚀 Ideas to Implementation ✨</h1>
 
 <h3 align="center">A passionate Software Engineer crafting innovative digital experiences</h3>
 
