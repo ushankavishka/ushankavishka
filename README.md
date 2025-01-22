@@ -1,5 +1,7 @@
 <h1 align="center"> Ideas to Implementation </h1>
 
+<h3 align="center"> I'm Ushan Kavishka</h3>
+
 <h3 align="center">A passionate Software Engineer crafting digital experiences</h3>
 
 <p align="center">
