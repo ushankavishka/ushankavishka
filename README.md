@@ -32,12 +32,25 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ushankavishka&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <!-- GitHub Stats -->
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=ushankavishka&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </div>
+    <!-- Most Used Languages -->
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushankavishka&layout=compact&theme=radical" alt="Most Used Languages" />
+    </div>
+  </div>
+</div>
+
+<!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushankavishka&theme=radical" alt="GitHub Streak" />
 </p>
+
+<!-- Profile Details -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ushankavishka&theme=radical" alt="Profile Details" />
 </p>
