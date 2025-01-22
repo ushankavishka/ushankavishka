@@ -33,13 +33,13 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
     <!-- GitHub Stats -->
-    <div>
+    <div style="flex: 1; text-align: left;">
       <img src="https://github-readme-stats.vercel.app/api?username=ushankavishka&show_icons=true&theme=radical" alt="GitHub Stats" />
     </div>
     <!-- Most Used Languages -->
-    <div>
+    <div style="flex: 1; text-align: right;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushankavishka&layout=compact&theme=radical" alt="Most Used Languages" />
     </div>
   </div>
