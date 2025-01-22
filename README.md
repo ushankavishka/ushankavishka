@@ -39,7 +39,7 @@
 - **Current Focus:** Building scalable and efficient applications  
 - **Fun Fact:** I believe bugs are just undocumented features 🐛  
 - **Email:** ushankavishka22@gmail.com
-<p align="center">📬 Feel free to <a href="mailto:ushankavishka22@gmail.com">reach out</a> or explore my projects below!</p>
+<!-- <p align="center">📬 Feel free to <a href="mailto:ushankavishka22@gmail.com">reach out</a> or explore my projects below!</p> -->
 
 ---
 
@@ -79,7 +79,7 @@
   </a>
 </p>
 <p align="center">
-  🚀 Dive into my projects, achievements, and more at <a href="https://ushankavishka.com" target="_blank">yourportfolio.com</a>!
+  🚀 Dive into my projects, achievements, and more at <a href="https://ushankavishka.com" target="_blank">portfolio.c</a>!
 </p>
 
 ---
