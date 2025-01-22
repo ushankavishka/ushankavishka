@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Your+Custom+Banner" alt="Custom Banner" />
+</p>
+
+
 <h1 align="center">✨ Ideas to Implementation ✨</h1>
 
 <h3 align="center">A passionate Software Engineer crafting innovative digital experiences</h3>
