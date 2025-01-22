@@ -1,17 +1,4 @@
-<p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="100">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#ff7e5f;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#feb47b;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" fill="url(#gradient)" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="40">
-      Ideas to Implementation
-    </text>
-  </svg>
-</p>
-
+<h1 align="center"> Ideas to Implementation </h1>
 
 <h3 align="center">A passionate Software Engineer crafting digital experiences</h3>
 
