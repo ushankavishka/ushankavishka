@@ -70,6 +70,20 @@
 
 ---
 
+---
+
+### 🌐 Explore My Portfolio
+<p align="center">
+  <a href="https://yourportfolio.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
+<p align="center">
+  🚀 Dive into my projects, achievements, and more at <a href="https://yourportfolio.com" target="_blank">yourportfolio.com</a>!
+</p>
+
+---
+
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/ushan-kavishka-a2b5bb334" target="_blank">
