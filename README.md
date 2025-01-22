@@ -31,6 +31,8 @@
 
 ### 💫 About Me
 
+<p align="center">I'm Ushan Kavishka, a driven developer who thrives on building impactful applications and solving real-world problems.</p>
+
 - **Name:** Ushan Kavishka  
 - **Role:** Software Engineer  
 - **Skills:**  
@@ -38,7 +40,8 @@
   - Technologies: React, Flutter, MySQL, MongoDB  
 - **Current Focus:** Building scalable and efficient applications  
 - **Fun Fact:** I believe bugs are just undocumented features 🐛  
-- **Email:** ushankavishka22@gmail.com  
+
+<p align="center">📬 Feel free to <a href="mailto:ushankavishka22@gmail.com">reach out</a> or explore my projects below!</p>
 
 ---
 
