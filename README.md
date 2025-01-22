@@ -94,10 +94,10 @@
   <a href="mailto:ushankavishka22@gmail.com" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+  <a href="https://facebook.com/ushan.kavishka" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <a href="https://instagram.com/ushankavishka" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW_ID" target="_blank">
