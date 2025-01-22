@@ -79,7 +79,7 @@
   </a>
 </p>
 <p align="center">
-  🚀 Dive into my projects, achievements, and more at <a href="https://yourportfolio.com" target="_blank">yourportfolio.com</a>!
+  🚀 Dive into my projects, achievements, and more at <a href="https://ushankavishka.com" target="_blank">yourportfolio.com</a>!
 </p>
 
 ---
