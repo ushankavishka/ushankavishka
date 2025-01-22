@@ -10,6 +10,11 @@
   </svg>
 </p>
 
+<p align="center" style="background-color: #f75c7e; color: white; padding: 20px; border-radius: 10px;">
+  <strong>🚀 Ideas to Implementation</strong><br>
+  <em>A passionate Software Engineer crafting digital experiences</em>
+</p>
+
 
 <h1 align="center">✨ Ideas to Implementation ✨</h1>
 
