@@ -46,6 +46,10 @@
     <div style="flex: 1; text-align: left;">
       <img src="https://github-readme-stats.vercel.app/api?username=ushankavishka&show_icons=true&theme=radical" alt="GitHub Stats" />
     </div>
+
+    <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushankavishka&theme=radical" alt="GitHub Streak" />
+</p>
     <!-- Most Used Languages -->
     <div style="flex: 1; text-align: right;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushankavishka&layout=compact&theme=radical" alt="Most Used Languages" />
