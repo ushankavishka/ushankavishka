@@ -63,8 +63,8 @@
 ---
 
 ### 🎯 Current Focus
-- 🔭 I'm currently working on **[Your Current Project Name]**  
-- 🌱 I'm currently learning **[New Technology/Framework]**  
+<!-- 🔭 I'm currently working on **[Your Current Project Name]** --> 
+- 🌱 I'm currently learning Node.js,   
 - 👯 I'm looking to collaborate on innovative projects  
 - 💬 Ask me about **Web Development, Mobile Development, or anything tech-related!**
 
@@ -81,7 +81,17 @@
   <a href="mailto:ushankavishka22@gmail.com" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
   </a>
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW_ID" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
