@@ -70,13 +70,13 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+  <a href="https://linkedin.com/in/ushan-kavishka-a2b5bb334" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank">
+  <a href="https://twitter.com/@ushan_gamage" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="mailto:YOUR_EMAIL" target="blank">
+  <a href="mailto:ushankavishka22@gmail.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
   </a>
 </p>
