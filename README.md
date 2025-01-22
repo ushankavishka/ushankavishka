@@ -35,7 +35,7 @@
 - **Role:** Software Engineer  
 - **Skills:**  
   - Programming Languages: JavaScript, PHP, Dart, HTML, CSS  
-  - Technologies: React, Flutter, MySQL, MongoDB  
+  - Technologies: React, Flutter, MySQL, MongoDB, Arduino  
 - **Current Focus:** Building scalable and efficient applications  
 - **Fun Fact:** I believe bugs are just undocumented features 🐛  
 - **Email:** ushankavishka22@gmail.com
