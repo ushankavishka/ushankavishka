@@ -1,9 +1,9 @@
-<h1 align="center"> Ideas to Implementation </h1>
+<h1 align="center">✨ Ideas to Implementation ✨</h1>
 
-<h3 align="center">A passionate Software Engineer crafting digital experiences</h3>
+<h3 align="center">A passionate Software Engineer crafting innovative digital experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Web+Developer;Always+Learning+%26+Improving" alt="Typing SVG" />
 </p>
 
 ---
