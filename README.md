@@ -20,13 +20,6 @@
   </tr>
 </table>
 
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ushankavishka&theme=radical" alt="GitHub Streak" />
-</p>
-
-
 ---
 
 ### 💫 About Me
@@ -75,8 +68,6 @@
 - 🌱 I'm currently learning Node.js,   
 - 👯 I'm looking to collaborate on innovative projects  
 - 💬 Ask me about **Web Development, Mobile Development, or anything tech-related!**
-
----
 
 ---
 
