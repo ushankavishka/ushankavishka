@@ -57,9 +57,16 @@
 ---
 
 ### 📊 GitHub Summary
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ushankavishka&theme=radical" alt="Profile Details" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ushankavishka&theme=radical" alt="Profile Details" />
+    </td>
+    <td>
+	 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushankavishka&layout=compact&theme=radical" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
