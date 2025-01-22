@@ -15,7 +15,9 @@
   - Programming Languages: JavaScript, PHP, Dart, HTML, CSS  
   - Technologies: React, Flutter, MySQL, MongoDB  
 - **Current Focus:** Building scalable and efficient applications  
-- **Fun Fact:** I believe bugs are just undocumented features 🐛  
+- **Fun Fact:** I believe bugs are just undocumented features 🐛
+- **Email:** ushankavishka22@gmail.com 
+
 
 ---
 
