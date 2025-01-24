@@ -66,7 +66,7 @@
 
 ### 🎯 Current Focus
 <!-- 🔭 I'm currently working on **[Your Current Project Name]** --> 
-- 🌱 I'm currently learning Node.js,   
+- 🌱 I'm currently learning Node.js, Machine Learning, and Advanced Data Modeling to build scalable web applications and solve real-world data challenges.
 - 👯 I'm looking to collaborate on innovative projects  
 - 💬 Ask me about **Web Development, Mobile Development, or anything tech-related!**
 
