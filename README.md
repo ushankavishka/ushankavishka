@@ -25,7 +25,7 @@
 ### 💫 About Me
 
 - **Name:** Ushan Kavishka  
-- **Role:** Software Engineer  
+- **Role:** Software Developer 
 - **Skills:**  
   - Programming Languages: JavaScript, PHP, Dart, HTML, CSS, Python  
   - Technologies: React, Flutter, MySQL, MongoDB, Arduino  
